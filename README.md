@@ -1,5 +1,5 @@
 # wwcc-cpp
-#C++ assignments for WWCC
+C++ assignments for WWCC
 
 # About Me
 
